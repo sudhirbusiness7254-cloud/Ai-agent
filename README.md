@@ -163,7 +163,6 @@ The AI agent will:
 
 ## 📬 Contact
 
-**Aditya Arya**  
-Email: adarya125@gmail.com  
-GitHub: [@AdArya125](https://github.com/AdArya125)
+**Sudhir yadav**  
+Email: syrk7254@gmail.com  
 
