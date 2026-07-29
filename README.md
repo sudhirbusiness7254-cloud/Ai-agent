@@ -61,7 +61,7 @@ Make sure you have:
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/AdArya125/AI-Agent-powered-by-Tools
+   git clone https://github.com/sudhirbusiness7254-cloud/Ai-agent
    cd AI-Agent-powered-by-Tools
    ```
 
